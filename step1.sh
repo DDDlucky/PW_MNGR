@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 echo "パスワードマネージャーへようこそ！"
 echo "サービス名を入力してください："
 read serviceName
